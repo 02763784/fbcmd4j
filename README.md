@@ -1,5 +1,3 @@
-#fbcmd4j 
-
 Cliente de Facebook en linea de comando (fbcmd4j)
 
 #INSTALACION 
@@ -8,7 +6,7 @@ Clonar el repositorio https://github.com/02763784/fbcmd4j
 cuando este completa la fase 2
 
 #USO
-
+Configuracion de aplicacion.
 
 #CREDITOS
 Daniel Peraza Loaiza
@@ -16,17 +14,11 @@ AL02763784
 
 #LICENCIA
 
-El código está disponible bajo la licencia GNU GPL-3.0. Consulte el archivo LICENSE en la raíz del proyecto para más información.
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
+                GNU GENERAL PUBLIC LICENSE
+                  Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
 
